@@ -37,11 +37,11 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Postman" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/github-2690381-2232884.png" style="padding-right:10px;"/>
 
-<img align="left" alt="npm" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/npm-2752117-2284934.png" />
-<img align="left" alt="MongoAtlas" width="60px" src="https://techcrunch.com/wp-content/uploads/2016/06/2016-06-27_1940.png" />
-<img align="left" alt="Netlify" width="26px" src="https://cdn.worldvectorlogo.com/logos/netlify.svg" />
+<img align="left" alt="npm" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/npm-2752117-2284934.png" style="padding-right:10px;"/>
+<img align="left" alt="MongoAtlas" width="60px" src="https://techcrunch.com/wp-content/uploads/2016/06/2016-06-27_1940.png" style="padding-right:10px;"/>
+<img align="left" alt="Netlify" width="26px" src="https://cdn.worldvectorlogo.com/logos/netlify.svg" style="padding-right:10px;"/>
 <br />
 <br />
 
