@@ -1,8 +1,8 @@
 # Hi there, I'm Akash Borate - Full Stack Web Developer 👋
 
-## I'm an Engineer, Programer, Developer, and Learner!!
+## I'm an Engineer, Programmer, Developer, and Learner!!
 
-- 🔭 I’m currently a Masai student
+- 🔭 I’m currently student in Masai School
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 🥅 2022 Goals: Learn more about web3
