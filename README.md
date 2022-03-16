@@ -40,7 +40,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/github-2690381-2232884.png" style="padding-right:10px;"/>
 
 <img align="left" alt="npm" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/npm-2752117-2284934.png" style="padding-right:10px;"/>
-<img align="left" alt="MongoAtlas" width="26px" src="https://cdn-icons-png.flaticon.com/512/873/873120.png" style="padding-right:10px;"/>
+<img align="left" alt="Heroku" width="26px" src="https://cdn-icons-png.flaticon.com/512/873/873120.png" style="padding-right:10px;"/>
 <img align="left" alt="Netlify" width="26px" src="https://cdn.worldvectorlogo.com/logos/netlify.svg" style="padding-right:10px;"/>
 <br />
 <br />
