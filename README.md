@@ -31,7 +31,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Redux" width="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" style="padding-right:10px;" />
-<img align="left" alt="Express" width="60px" src="https://e7.pngegg.com/pngimages/212/722/png-clipart-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue.png" style="padding-right:10px;" />
+<img align="left" alt="Express" width="26px" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Json" width="26px" src="https://cdn-icons-png.flaticon.com/512/136/136525.png" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
