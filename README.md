@@ -12,9 +12,6 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://twitter.com/AkashBorate27#gh-light-mode-only)
-
-<!-- portfolio links here up and down -->
-
 [![website](./img/globe-dark.svg)](https://twitter.com/AkashBorate27#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/AkashBorate27#gh-light-mode-only)
