@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to sketching, playing all games
+- ⚡ Fun fact: I love to do sketching and playing all games
 - 😻 Check out All of my projects at: [My Portfolio][portfolio]
 
 ### Connect with me:
