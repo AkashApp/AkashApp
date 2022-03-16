@@ -3,7 +3,7 @@
 ## I'm an Engineer, Programmer, Developer, and Learner!!
 
 - 🔭 I’m currently student in Masai School
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning MERN Stack & DSA
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to do sketching and playing all games
@@ -37,7 +37,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Postman" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" />
 
 <img align="left" alt="npm" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/npm-2752117-2284934.png" />
 <img align="left" alt="MongoAtlas" width="60px" src="https://techcrunch.com/wp-content/uploads/2016/06/2016-06-27_1940.png" />
