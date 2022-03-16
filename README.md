@@ -7,10 +7,16 @@
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to sketching, playing all games
-- 😻 Check out All of my projects at: [Porfolio](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 😻 Check out All of my projects at: [My Portfolio][portfolio]
 
 ### Connect with me:
 
+[![website](./img/globe-light.svg)](https://twitter.com/AkashBorate27#gh-light-mode-only)
+
+<!-- portfolio links here up and down -->
+
+[![website](./img/globe-dark.svg)](https://twitter.com/AkashBorate27#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/AkashBorate27#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/AkashBorate27#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -54,3 +60,4 @@
 [twitter]: https://twitter.com/AkashBorate27
 [instagram]: https://www.instagram.com/akash_borate.27
 [linkedin]: https://www.linkedin.com/in/akash-borate-12360b1b0
+[portfolio]: https://www.linkedin.com/in/akash-borate-12360b1b0
