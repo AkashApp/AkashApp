@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://akashborate.netlify.app/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://akashborate.netlify.app/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://akash-borate-portfolio.netlify.app/#intro#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://akash-borate-portfolio.netlify.app/#intro#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/AkashBorate27#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/AkashBorate27#gh-dark-mode-only)
@@ -57,4 +57,4 @@
 [twitter]: https://twitter.com/AkashBorate27
 [instagram]: https://www.instagram.com/akash_borate.27
 [linkedin]: https://www.linkedin.com/in/akash-borate-12360b1b0
-[portfolio]: https://akashborate.netlify.app/
+[portfolio]: https://akash-borate-portfolio.netlify.app/#intro
